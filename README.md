@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+My name is Daniil Senotrusov. I'm programmer and data scientist!
+
+#### My languages and tools:
+- [Python 3](https://www.python.org)
+- [NumPy](https://numpy.org)
+- [Pandas](https://pandas.pydata.org)
+- [SciPy](https://scipy.org)
+- [statsmodels](https://www.statsmodels.org)
+- [scikit-learn](https://scikit-learn.org)
+- [CatBoost](https://catboost.ai)
+- [Optuna](https://optuna.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
+- [PyTorch](https://pytorch.org)
+- [Transformers](https://huggingface.co/transformers)
+
+#### My projects:
+- [Practicum Data Science Projects](https://github.com/daniilxcode/practicum-ds)
+
 <!--
 **daniilxcode/daniilxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
