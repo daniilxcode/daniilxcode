@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Daniil Senotrusov. I'm programmer and data scientist!
+My name is Daniil Senotrusov. I'm programmer and data scientist.
+- ⚙️ I like using ML to automate stuff.
+- 📖 I’m currently learning to work with PyTorch and transformers libraries.
 
 #### My languages and tools:
 - [Python 3](https://www.python.org)
